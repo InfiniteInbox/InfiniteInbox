@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I am Yash Jain
+
+Currently a 3rd year at the University of Toronto studying Computer Science, Mathematics and Statistics. Much of my expertise and such is listed on my webiste 
+[Website](/https://infiniteinbox.github.io)
+
+You can reach me from my email! yjain1.618@gmail.com 
 
 <!--
 **InfiniteInbox/InfiniteInbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
